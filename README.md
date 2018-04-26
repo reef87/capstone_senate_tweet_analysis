@@ -14,6 +14,7 @@ a.	 First things first, let’s look at the entire dataset and see what “words
 i.	When looking at each individual party’s top used words we see that both Democrats and Republicans use twitter as a legislative platform. Independents much more issue centric with their posts. One word of interest showed up in all three parties but at different ranks, Family. For Democrats it was #5, Republicans it was # 12, and Independents it was #14.
 b.	When we look at the most frequent bigrams in each party, some magic starts to happen. Health care is in the top two for all three parties. 
 i.	Democrats will tweet “President Trump”, “sexual” assault”, and “gun control”. Republicans will tweet “President Obama”, “happy birthday” and “thoughts and prayers”. It is clear what each party thinks is important.
+
 c.	The Twitter Ratio! What is it? The ratio refers to an unofficial Twitter law which states that if the amount of replies to a tweet greatly outnumbers the amount of retweets, then the tweet is bad. If your ratio is greater 2:1, then you have messed up. For the sake of analysis I have divided the EDA here into three sections, Low( < 2), High( > 2), and Extreme( > 40).
 i.	The majority of the tweets gathered live in in the lower spectrum of the ratio,  with Democratic tweet frequency being the highest in this group.
 ii.	Republicans tweets dominate the high spectrum of the ratio.
